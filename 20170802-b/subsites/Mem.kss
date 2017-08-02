@@ -1,0 +1,17 @@
+[KITE]
+msg1= Keithley Interactive Test Environment - Generated KITE Subsite Plan File
+msg2= INI File Format, V9.0
+msg3= ** DO NOT EDIT **
+msg4= ** Assume All Values are CaSe SeNsItIvE!!! **
+[Status]
+RunStatus=0
+IsChecked=1
+[Subsite Plans]
+d1=\devices\8terminal-generic.kdv
+d1UID=1
+d1t1=\tests\IV.kta
+d1t1UID=1
+d1t2=\tests\kinetics.kta
+d1t2UID=1
+d1t3=\tests\kin4.kta
+d1t3UID=1

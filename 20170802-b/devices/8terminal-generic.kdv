@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\8terminal-generic.bmp
+Big=\devices\8terminal-generic-Big.bmp
+[Terminals]
+Number=8
+Orientation=;N:A;NE:B;E:C;SE:D;S:E;SW:F;W:G;NW:H
+[Status]
+RunStatus=0
+IsChecked=1

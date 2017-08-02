@@ -1,0 +1,46 @@
+[KITE]
+msg1= Keithley Interactive Test Environment - Generated KITE Project File
+msg2= INI File Format, V9.0
+msg3= ** DO NOT EDIT **
+msg4= ** Assume All Values are CaSe SeNsItIvE!!! **
+[Miscellaneous]
+ReadOnly=FALSE
+NumberOfSites=1
+CurrentSite=1
+StartSite=1
+FinishSite=1
+NumberOfAppends=20
+[Status]
+RunStatus=0
+IsChecked=1
+[OpenTestsAndPlans]
+NodePath1=\devices\8terminal-generic#1@1
+NodeName1=8terminal-generic
+NodeType1=3
+NodeUID1=1
+NodeStatus1=1
+NodeChecked1=1
+NodePath2=\tests\IV#1@1
+NodeName2=IV
+NodeType2=4
+NodeUID2=1
+NodeStatus2=0
+NodeChecked2=3
+NodePath3=\tests\kin4#1@1
+NodeName3=kin4
+NodeType3=4
+NodeUID3=1
+NodeStatus3=1
+NodeChecked3=0
+NodePath4=\tests\kinetics#1@1
+NodeName4=kinetics
+NodeType4=4
+NodeUID4=1
+NodeStatus4=1
+NodeChecked4=0
+[InitializationSteps]
+OnOff=Off
+[TerminationSteps]
+OnOff=Off
+[Subsite Plans]
+SSP1=\subsites\Mem.kss
