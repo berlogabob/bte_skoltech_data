@@ -54,7 +54,7 @@ plt.figure(num = 1, dpi= 300)
 #первый графф
 #plt.subplot(2,1,1)
 plt.plot(Time, Volt3, "b")
-plt.xlabel('Time, sec')
+plt.xlabel('Time, s')
 plt.ylabel('Voltage, V')
 #plt.title(u'Вольт-амперная характеристика', fontsize=12)
 plt.grid(True)
